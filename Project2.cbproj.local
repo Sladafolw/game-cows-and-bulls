@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.087,C:\открывать только этот курсач!\Unit1.cpp=C:\открывать только этот курсач!\GameCore.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=C:\открывать только этот курсач!\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,C:\parasha\Unit5.h=C:\parasha\igrafortwoperson.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\parasha\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,C:\открывать только этот курсач!\Unit1.h=C:\открывать только этот курсач!\GameCore.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,=C:\parasha\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\parasha\surrend1.h=C:\parasha\surrend.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\parasha\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\parasha\Unit3.cpp=C:\parasha\menu.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\parasha\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,C:\parasha\Gamevscomputer.dfm=C:\parasha\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,C:\parasha\surrend.dfm=C:\parasha\Unit7.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,=C:\parasha\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,C:\parasha\odinochaya.dfm=C:\parasha\foroneperson.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,=C:\parasha\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.896,=C:\parasha\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit4.h=C:\parasha\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\parasha\Unit1.cpp=C:\parasha\win.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,C:\parasha\Gamevscomputer.h=C:\parasha\Unit6.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,C:\parasha\Unit8.cpp=C:\parasha\pravila.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,=C:\parasha\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,C:\parasha\Unit8.dfm=C:\parasha\pravila.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,C:\parasha\Unit8.h=C:\parasha\pravila.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\parasha\surrend1.cpp=C:\parasha\surrend.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit5.h=C:\parasha\Unit5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\parasha\Unit4.cpp=C:\parasha\odinochaya.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,C:\parasha\odinochaya.cpp=C:\parasha\foroneperson.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\parasha\Unit3.h=C:\parasha\menu.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\parasha\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\parasha\Unit1.h=C:\parasha\win.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.090,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\parasha\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\parasha\Unit4.dfm=C:\parasha\odinochaya.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,C:\parasha\Unit5.dfm=C:\parasha\igrafortwoperson.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\parasha\Unit4.h=C:\parasha\odinochaya.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,C:\parasha\odinochaya.h=C:\parasha\foroneperson.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,C:\parasha\Unit5.cpp=C:\parasha\igrafortwoperson.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\parasha\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,C:\parasha\Gamevscomputer.cpp=C:\parasha\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,C:\parasha\surrend.h=C:\parasha\Unit7.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\parasha\surrend1.dfm=C:\parasha\surrend.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit4.cpp=C:\parasha\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\parasha\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit5.cpp=C:\parasha\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,=C:\Users\slava\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,C:\parasha\surrend.cpp=C:\parasha\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\parasha\Unit3.dfm=C:\parasha\menu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\parasha\Unit1.dfm=C:\parasha\win.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="menu.cpp"/>
+    <File Path="menu.cpp"/>
+    <File Path="menu.dfm"/>
+    <File Path="menu.h"/>
+    <File Path="foroneperson.cpp"/>
+    <File Path="foroneperson.cpp"/>
+    <File Path="foroneperson.dfm"/>
+    <File Path="foroneperson.h"/>
+    <File Path="Gamevscomputer.cpp"/>
+    <File Path="Gamevscomputer.cpp"/>
+    <File Path="Gamevscomputer.dfm"/>
+    <File Path="Gamevscomputer.h"/>
+    <File Path="igrafortwoperson.cpp"/>
+    <File Path="igrafortwoperson.cpp"/>
+    <File Path="igrafortwoperson.dfm"/>
+    <File Path="igrafortwoperson.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="pravila.cpp"/>
+    <File Path="pravila.cpp"/>
+    <File Path="pravila.dfm"/>
+    <File Path="pravila.h"/>
+    <File Path="Project2.cpp"/>
+    <File Path="Project2PCH1.h"/>
+    <File Path="surrend1.cpp"/>
+    <File Path="surrend1.cpp"/>
+    <File Path="surrend1.dfm"/>
+    <File Path="surrend1.h"/>
+    <File Path="win.cpp"/>
+    <File Path="win.cpp"/>
+    <File Path="win.dfm"/>
+    <File Path="win.h"/>
+    <File Path="GameCore.cpp"/>
+    <File Path="GameCore.cpp"/>
+    <File Path="GameCore.h"/>
+  </ProjectSortOrder>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
